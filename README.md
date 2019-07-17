@@ -32,7 +32,7 @@ server.listen(3000);
 
 ### Express JS version
 
-```
+```js
 
 const express = require('express');
 const path = require('path');
@@ -63,6 +63,6 @@ app.listen(port, () => {
 
 #### Start app
 
-```
+```bash
 node index.js
 ```
