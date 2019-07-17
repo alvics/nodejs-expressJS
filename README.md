@@ -2,7 +2,7 @@
 
 ## Node JS version
 
-```
+```js
 const http = require('http'); // import http module (req, res)
 const fs = require('fs'); // import file system module (read html files)
 
